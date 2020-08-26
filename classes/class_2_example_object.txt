@@ -8,7 +8,7 @@ ingredients = ["mint", "lime", "rum", "club soda"]
 
 Methods:
 make_double: alcohol_content = 30.1
-shaken_not_stirred: mixed_drink = true
+shake_drink: mixed_drink = true
 increase_size: size = 11
 add_ingredient: ingredients = ["mint", "lime", "rum", "club soda", "ice cubes"]
 

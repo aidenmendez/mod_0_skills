@@ -7,6 +7,7 @@ calories (integer)
 to_go_box (boolean)
 price (float)
 
+Methods
 split_entree (divide calories attribute by two)
 remove_ingredient (remove element from ingredient array)
 add_protein (adds extra protein: adds 3 to price attribute and ingredient to ingredients array)
