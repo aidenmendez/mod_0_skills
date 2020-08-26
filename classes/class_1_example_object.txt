@@ -1,0 +1,12 @@
+Chicken Alfredo
+
+ingredients = ["alfredo sauce", "pasta", "garlic", "parsley"]
+hot entree = true
+calories = 1200
+to_go_box = false
+price: 18.99
+
+split_entree: calories = 600
+remove_ingredient: ingredients = ["alfredo sauce", "pasta", "garlic"]
+add_protein: price = 21.99 & ingredients = ["alfredo sauce", "pasta", "garlic", "chicken"]
+box_entree: to_go_box = true

@@ -1,13 +1,13 @@
 Entrees class
 
 Attributes
-name (string)
 ingredients (array)
 hot_entree (boolean)
 calories (integer)
 to_go_box (boolean)
+price (float)
 
 split_entree (divide calories attribute by two)
 remove_ingredient (remove element from ingredient array)
-reheat_entree (toggle hot_entree to true)
-box_leftovers (toggle to_go_box)
+add_protein (adds extra protein: adds 3 to price attribute and ingredient to ingredients array)
+box_entree (puts entree in a box: toggle to_go_box)
