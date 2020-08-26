@@ -1,7 +1,7 @@
 Drink class
 
 Attributes:
-size (integer)
+size (integer) # in ounces 
 straw (boolean)
 alcohol_content (float)
 ingredients (array of strings)
@@ -10,5 +10,5 @@ mixed_drink (boolean)
 Methods:
 make_double (increase alcohol_content by 100%)
 shaken_not_stirred (toggles mixed_drink to true)
-increase_size (increases size attribute by 5)
-add_ingredient (add element to ingredients array)
+increase_size (increases size attribute by 5 ounces)
+add_ingredient (add element to the end of ingredients array)
