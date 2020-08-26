@@ -1,7 +1,7 @@
 Entrees class
 
 Attributes
-ingredients (array)
+ingredients (array of strings)
 hot_entree (boolean)
 calories (integer)
 to_go_box (boolean)

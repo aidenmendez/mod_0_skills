@@ -1,0 +1,9 @@
+food = "hamburger"
+is_delicious = true
+food = "salad"
+num2 = 2
+num7 = 6
+quotient = num7 / num2
+songs = ["Tangerine", "Heat Waves", "Hot Sugar"]
+songs.shift
+food.length
